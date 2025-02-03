@@ -72,5 +72,4 @@ You recently built an SLR model to analyze the relationship between **CGPA and p
 - **Package (LPA)** is the dependent variable (\(Y\))  
 - The model predicts how a student's CGPA influences their salary package.  
 
-Would you like help improving your model, such as checking for assumptions or exploring multiple linear regression? 🚀
 
