@@ -70,6 +70,8 @@ Where:
 You recently built an SLR model to analyze the relationship between **CGPA and package (LPA)**. In this case:  
 - **CGPA** is the independent variable (\(X\))  
 - **Package (LPA)** is the dependent variable (\(Y\))  
-- The model predicts how a student's CGPA influences their salary package.  
+- The model predicts how a student's CGPA influences their salary package.
+  ```
+  * **1.MULTIPLE LINEAR REGRESSION:-** 
 
 
