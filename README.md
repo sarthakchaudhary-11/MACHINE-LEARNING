@@ -1,5 +1,5 @@
 # MACHINE-LEARNING
-* **1.SIMPLE LINEAR REGRESSION:-**
+# **1.SIMPLE LINEAR REGRESSION:-**
 
 ### **Simple Linear Regression (SLR)**  
 
