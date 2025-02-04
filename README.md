@@ -73,6 +73,7 @@ You recently built an SLR model to analyze the relationship between **CGPA and p
 - The model predicts how a student's CGPA influences their salary package.
 
 
-* **2.MULTIPLE LINEAR REGRESSION:-**
+
+# **2.MULTIPLE LINEAR REGRESSION:-**
 
 
