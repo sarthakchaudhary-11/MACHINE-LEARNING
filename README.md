@@ -75,5 +75,7 @@ You recently built an SLR model to analyze the relationship between **CGPA and p
 
 
 # **2.MULTIPLE LINEAR REGRESSION:-**
+# **3.MULTICOLLINEARITY AND ITS REMEDY**
+
 
 
